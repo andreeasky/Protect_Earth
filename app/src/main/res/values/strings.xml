@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Protect Earth</string>
+
+    <string name="ContentDescription">Protect Earth</string>
+
+    <string name="action">NEXT</string>
+
+    <string name="text_earth">The EARTH is our HOME - Protect it!</string>
+
+    <string name="text_me">Me - I dream of a better WORLD</string>
+
+    <string name="text_you">You - Every little help MATTERS!</string>
+
+    <string name="text_we">We can make a DIFFERENCE!</string>
+
+    <string name="text_together">TOGETHER we can</string>
+
+    <string name="text_SavetheEarth">SAVE the EARTH</string>
+
+    <string name="ImageView">My Card</string>
+
+    <string name="Button">My Card</string>
+
+</resources>

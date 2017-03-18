@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.mycard.MainActivity3">
+
+    <ImageView
+        android:id="@+id/image_you"
+        android:src="@drawable/you"
+        android:contentDescription="@string/ContentDescription"
+        style="@style/Image_Style"  />
+
+    <TextView
+        android:id="@+id/You"
+        android:text="@string/text_you"
+        style="@style/Page3_TextStyle" />
+
+    <Button
+        android:id="@+id/button3"
+        android:text="@string/action"
+        style="@style/Page3_ButtonStyle" />
+
+</RelativeLayout>

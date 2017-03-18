@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.mycard.MainActivity">
+
+    <ImageView
+        android:id="@+id/image_earth"
+        android:src="@drawable/the_earth"
+        android:contentDescription="@string/ContentDescription"
+        style="@style/Image_Style" />
+
+    <TextView
+        android:id="@+id/ProtectEarth"
+        android:text="@string/text_earth"
+        style="@style/Page1_TextStyle" />
+
+    <Button
+        android:id="@+id/button1"
+        android:text="@string/action"
+        style="@style/Page1_ButtonStyle" />
+
+</RelativeLayout>
